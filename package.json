@@ -1,0 +1,13 @@
+{
+  "name": "arisgreatalgo",
+  "version": "1.0.0",
+  "main": "theproblem.js",
+  "scripts": {
+    "test": "mocha --timeout 5000 \"./tests/*-test.js\""
+  },
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0"
+  }
+}
